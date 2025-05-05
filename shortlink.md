@@ -1,0 +1,1 @@
+http://new-static-app.hattrick.com
